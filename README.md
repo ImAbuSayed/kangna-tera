@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kangna-tera/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Kangna Tera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kangna-tera/) |
+| **Get License** | [Music Rights & Licensing for Kangna Tera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kangna-tera/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kangna tera ni bright lishkare maarda,
+> Crazy munda tera nakhra saharda,
+> Mere dil di dhadkan chaldi loud,
+> Sari raat main takda in the crowd.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
