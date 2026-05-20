@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kangna Tera
+
+This log tracks the cryptographic history and versioning for the song **Kangna Tera** (kangna-tera).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:53:59.052486 | `v1` | `a34ac9e462bd68e3676b06bf7a3b8ca5288f9a6e08956407bd66c20c8f0f6b2b` | `e279fcef2cc1e1d716f47cd86b06323a3bcf7691a0a5f78a03cdea020bdd6293` | `2026-05-20_kangna-tera-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
